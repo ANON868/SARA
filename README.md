@@ -20,7 +20,7 @@ git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash insta
 
 Quick installation for Termux Android (ROOT)
 ````bash
-apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
+apt-get install tsu git imagemagick python -y && pyhon3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
 ````
 #### Sara for Termux by [@R1punk](https://github.com/R1punk/SARA)
 Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
@@ -50,7 +50,7 @@ Tested on devices ```Android 10```
 
 ### Support Us
 Facebook [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
-Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
+Instagram [@termuxhackers.id]([https://instagram.com/termuxhackers.id](https://discord.gg/cgbzTZuZyS))
 
 ### Credit's
 Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
